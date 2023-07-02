@@ -1,0 +1,151 @@
+[
+    {
+      "id": 1,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "publicationDate": "1979",
+      "genre": "Science fiction",
+      "pages": 224,
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Hitchhikers_guide_to_the_galaxy.jpg/220px-Hitchhikers_guide_to_the_galaxy.jpg",
+      "shortDescription": "The Hitchhiker's Guide to the Galaxy is a comic science fiction series created by Douglas Adams. The series follows the adventures of Arthur Dent, a hapless Englishman, following the destruction of the Earth by the Vogons, a race of unpleasant and bureaucratic aliens. Arthur escapes Earth's destruction with his friend Ford Prefect, who turns out to be an alien researcher who was stranded on Earth for fifteen years while gathering information for the titular Hitchhiker's Guide to the Galaxy, a pan-galactic encyclopaedia and travel guide for hitchhikers.",
+      "longDescription": "The Hitchhiker's Guide to the Galaxy is a witty and satirical look at the universe and the human condition. It is full of Adams's trademark humor and imagination, and it has been praised by critics and fans alike. The series has been adapted into a number of different forms, including a radio series, a television series, a stage play, a comic book series, and a feature film.",
+      "status": "PUBLISH"
+    },
+    {
+      "id": 2,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publicationDate": "1954-1955",
+      "genre": "Fantasy",
+      "pages": "224",
+      "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Lord_of_the_Rings_One_Volume.jpg/220px-The_Lord_of_the_Rings_One_Volume.jpg",
+      "shortDescription": "The Lord of the Rings is an epic high fantasy trilogy written by English philologist and University of Oxford professor J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, with much of it being written during World War II, it was originally published in three volumes in 1954 and 1955. It has since been reprinted numerous times and translated into at least 38 languages, becoming one of the best-selling novels ever written.",
+      "longDescription": "The Lord of the Rings has been adapted several times for radio, stage, and film. The most well-known adaptation is the Lord of the Rings film trilogy (2001–2003) directed by Peter Jackson. The films were critically acclaimed and commercially successful, and they helped to introduce Tolkien's work to a new generation of readers and viewers.",
+      "status": "PUBLISH"
+    },
+     {
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adac"
+    },
+    "title": "Art of Java Web Development",
+    "isbn": "1932394060",
+    "pageCount": 624,
+    "publishedDate": {
+        "$date": "2003-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ford.jpg",
+    "longDescription": "A guide to the topics required for state of the art web development, this book covers wide-ranging topics, including a variety of web development frameworks and best practices. Beginning with coverage of the history of the architecture of web applications, highlighting the uses of the standard web API to create applications with increasingly sophisticated architectures, developers are led through a discussion on the development of industry accepted best practices for architecture.    Described is the history and evolution towards this architecture and the reasons that it is superior to previous efforts. Also provided is an overview of the most popular web application frameworks, covering their architecture and use. Numerous frameworks exist, but trying to evaluate them is difficult because their documentation stresses their advantages but hides their deficiencies. Here, the same application is built in six different frameworks, providing a way to perform an informed comparison. Also provided is an evaluation of the pros and cons of each framework to assist in making a decision or evaluating a framework on your own. Finally, best practices are covered, including sophisticated user interface techniques, intelligent caching and resource management, performance tuning, debugging, testing, and Web services.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+     },
+     {
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adad"
+    },
+    "title": "Java Reflection in Action",
+    "isbn": "1932394184",
+    "pageCount": 300,
+    "publishedDate": {
+        "$date": "2004-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/forman.jpg",
+    "longDescription": "You are a Java developer. You are asked to add a simple feature to your application. But \"simple\" can be deceiving: you have to make many changes, in locations which can be difficult to find.    If this sounds familiar, you want to know about Java reflection. With reflection, you can work smarter by designing flexible applications to which you can easily add likely new requirements. Then, with a few code changes in easy-to-find places, you've got the job done. Reflection adds a new dimension to your programming skills. It will boost your effectiveness.    Java Reflection in Action starts from the basics. It gradually builds a complete understanding, adding as it goes reflective concepts illustrated with many small examples that are useful in real applications.    In a subplot, the book follows a programmer, George, as he tackles common but difficult tasks. In each case, George finds flexible, reflective solutions that replace the usual hard-coded ones. The power of reflection becomes clear through his story.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+}, {
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adae"
+    },
+    "title": "Programming Windows Server 2003",
+    "isbn": "1930110987",
+    "pageCount": 328,
+    "publishedDate": {
+        "$date": "2003-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/foster.jpg",
+    "longDescription": "Windows Server 2003 is the most advanced Microsoft operating system bearing the Windows name. It includes the .NET Framework (version 1.1) so you can begin writing .NET applications for your enterprise without delay.    Programming Windows Server 2003 covers the new features of the OS and real-world techniques of applying them to your .NET applications. It is intended for intermediate and advanced-level .NET developers who wish to learn these new concepts now, and have a source for them in the future.    With this book your applications can benefit from new technologies in COM+, IIS 6, XML Web Services, and UDDI Services. The book illustrates best practices by developing a start-to-finish example: a contact management system. It includes a unique, easy to follow guide to securing your apps and is chock full of detailed coverage of topics important to practicing developers and architects.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+}, {
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adaf"
+    },
+    "title": "Struts Recipes",
+    "isbn": "1932394249",
+    "pageCount": 520,
+    "publishedDate": {
+        "$date": "2004-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/franciscus.jpg",
+    "longDescription": "This book is for developers and architects with real Struts work to do. It offers a broad collection of practical solutions complete with detailed code listings that will save you time and money. Each recipe clearly defines the problem it solves, gives you the background you need, and discusses the practical implications of adopting the solution. Many recipes point out little-known \"gotchas\" which will save you from needless grief. This book introduces you to Struts best practices so you can make your applications secure, robust, and maintainable.    Techniques presented in this book have gone through the trial by fire of real-life enterprise development and deployment you can rely on them with confidence.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+},{
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adb0"
+    },
+    "title": "Hello! iOS Development",
+    "isbn": "1935182986",
+    "pageCount": 0,
+    "publishedDate": {
+        "$date": "2013-07-28T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/franco.jpg",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+} ,{
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adb1"
+    },
+    "title": "Jess in Action",
+    "isbn": "1930110898",
+    "pageCount": 480,
+    "publishedDate": {
+        "$date": "2003-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/friedman-hill.jpg",
+    "shortDescription": "Jess in Action first introduces rule programming concepts and teaches you the Jess language. Armed with this knowledge, you then progress through a series of fully-developed applications chosen to expose you to practical rule-based development. The book shows you how you can add power and intelligence to your Java software",
+    "longDescription": "Imagine a different way to program in which you specify rules and facts instead of the usual linear set of instructions. That's the idea behind rule-based programming. A rule engine automatically decides how to apply the rules to your facts and hands you the result. This approach is ideal for expressing business rules and is increasingly used in enterprise computing.    Jess is a popular rule engine written in Java. It's supported by Sandia Labs and has an active online community. If you have a problem that can be solved with rules, Jess in Action will show you how. (If you are not sure, read chapter 2.) Written by the creator of Jess, this book is an accessible and practical guide to rule-based system development in Java.    Jess in Action first introduces rule programming concepts and teaches you the Jess language. Armed with this knowledge, you then progress through a series of fully-developed applications chosen to expose you to practical rule-based development. The book shows you how you can add power and intelligence to your Java software.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+} ,{
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adb2"
+    },
+    "title": "Remote LAN Access",
+    "isbn": "134944518",
+    "pageCount": 300,
+    "publishedDate": {
+        "$date": "1996-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fritz.jpg",
+    "shortDescription": "Remote LAN Access will help you cut through the haze typically encountered when designing and installing remote LAN connections.",
+    "longDescription": "If you're a networking professional looking to connect your corporate network to remote locations anywhere in the world, this book is for you! If you're a manager, engineer, technician or consultant responsible for providing remote connectivity to corporate networks for branch offices, telecommuters, and travelers, this book is for you! Remote LAN Access will help you cut through the haze typically encountered when designing and installing remote LAN connections.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+}, {
+    "_id": {
+        "$oid": "53c2ae8528d75d572c06adb3"
+    },
+    "title": "J2EE and XML Development",
+    "isbn": "1930110308",
+    "pageCount": 304,
+    "publishedDate": {
+        "$date": "2002-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gabrick.jpg",
+    "longDescription": "Geared toward experienced developers, this reference demonstrates how Java 2 Platform, Enterprise Edition (J2EE), and XML technologies can be used together to create more robust distributed applications and software systems. The use of XML technology to extend and enhance the capabilities of the J2EE platform is covered in detail.    Discussed are J2EE and XML integration at each layer of an n-tier distributed application model. Design patterns, tradeoffs, and decision criteria are provided in terms of individual XML and J2EE technology combinations.    Hot topics in application integration are also covered, including Web services, architectures, and business partner integration.",
+    "status": "PUBLISH",
+    "authors": [],
+    "categories": []
+}
+    
+  ]
+  
