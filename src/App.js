@@ -14,11 +14,10 @@ function App() {
         {
           Bookdata.map((person) =>(
             <li key={person.id}>
-              {person.title} - {person.genre}
+              {<img src={person.thumbnailUrl} alt="ok" ></img>}  {person.title} - {person.genre} 
             </li>
           ))
         }
-      
 
       </div>
     </div>
